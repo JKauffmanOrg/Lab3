@@ -29,10 +29,13 @@ p {
   margin: 0 auto;
   padding: 20px;
   background-color: #f9f9f9; 
+  text-align: center; 
 }
 
 form {
   margin-top: 20px;
+  display: inline-block; 
+  text-align: left; 
 }
 
 label {
